@@ -1,4 +1,4 @@
-\[ [Wikipeter](README.md) > Linux \]
+\[ [Wikipeter](wikipeter/README.md) > Linux \]
 # Linux
 ## A-C
 
