@@ -1,2 +1,2 @@
-\[ [Wikipeter](../../README.md) > TryHackME \]
+\[ [Wikipeter](../../README.md) > TryHackMe \]
 # TryHackMe
