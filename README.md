@@ -7,4 +7,4 @@ Page is currently under construction.
 - [Linux](Linux/Linux.md)
 
 ## Write-ups
-[Tryhackme](Write-ups/Tryhackme/Tryhackme.md)
+- [TryHackMe](Write-ups/TryHackMe/TryHackMe.md)
