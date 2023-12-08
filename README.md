@@ -1,2 +1,1 @@
-# wikipeter
-## Test page
+# Welcome to Wikipeter
