@@ -1,4 +1,4 @@
-\[ [Wikipeter](../README.md) > [Linux](Linux.md) > Linux Commands \]
+\[ [Wikipeter](../README.md) > [Linux](../Linux.md) > Linux Commands \]
 # Linux Commands
 
 | **Linux Command** | **Description** | **Example** |
