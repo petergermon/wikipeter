@@ -3,8 +3,8 @@ This is a public space where I will put all my notes and write-ups for all thing
 Page is currently under construction.
 
 ## Notes
-- [Cybersecurity](Cybersecurity/Cybersecurity.md)
-- [Linux](Linux/Linux.md)
+- [Cybersecurity](Notes/Cybersecurity/Cybersecurity.md)
+- [Linux](Notes/Linux/Linux.md)
 
 ## Write-ups
 - [TryHackMe](Write-ups/TryHackMe/TryHackMe.md)
