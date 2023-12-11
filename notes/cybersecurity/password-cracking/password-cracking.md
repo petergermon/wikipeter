@@ -1,7 +1,7 @@
 \[ [Wikipeter](../../../README.md) > [Cybersecurity](../cybersecurity.md)  > Password Cracking \]
 # Password Cracking
 
-## Wordlist Generation Tools
+## Wordlist Generation
 [Crunch](Crunch)
 
 ## Network Login Cracking
