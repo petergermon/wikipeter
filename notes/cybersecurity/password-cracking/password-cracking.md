@@ -1,4 +1,4 @@
-\[ [Wikipeter](../../../README.md) > [Cybersecurity](../../cybersecurity)  > Password Cracking \]
+\[ [Wikipeter](../../../README.md) > [Cybersecurity](../../cybersecurity.md)  > Password Cracking \]
 # Password Cracking
 
 ## Wordlist Generation Tools
