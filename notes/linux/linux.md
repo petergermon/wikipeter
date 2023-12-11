@@ -7,7 +7,7 @@
 ## G-I
 
 ## J-L
-- [Linux Commands](Linux-Commands.md)
+- [Linux Commands](linux-commands.md)
 
 ## M-O
 
