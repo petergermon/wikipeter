@@ -1,3 +1,3 @@
 \[ [Wikipeter](../../README.md) > Cybersecurity \]
 # Cybersecurity
-- [Password Cracking](password-cracking.md)
+- [Password Cracking](password-cracking/password-cracking.md)
