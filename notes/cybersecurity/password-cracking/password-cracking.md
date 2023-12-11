@@ -2,10 +2,10 @@
 # Password Cracking
 
 ## Wordlist Generation
-[Crunch](Crunch)
+[Crunch](crunch.md)
 
 ## Network Login Cracking
-[Hydra](Hydra)
+[Hydra](hydra.md)
 
 ## Password Cracking
-[John The Ripper](John-the-Ripper)
+[John The Ripper](john-the-ripper.md)
